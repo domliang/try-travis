@@ -774,7 +774,7 @@
     nightwatch "^0.9.21"
     selenium-server "^3.141.59"
 
-"@vue/cli-plugin-pwa@^3.5.3":
+"@vue/cli-plugin-pwa@^3.5.1":
   version "3.5.1"
   resolved "http://registry.npm.taobao.org/@vue/cli-plugin-pwa/download/@vue/cli-plugin-pwa-3.5.1.tgz#5bba2e533867b7fc8d62d028b6bfdc5a1962c120"
   dependencies:
