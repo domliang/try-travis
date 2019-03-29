@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.025d6d92089d79b6b279067f3eb2f2a8.js"
+  "precache-manifest.9e83f60b3d71bcfb1137e79d08cd69d4.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "keketodolist"});
