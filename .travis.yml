@@ -11,7 +11,7 @@ cache:
 
 # S: Build Lifecycle
 install:
-  - npm install
+  - yarn
 
 before_script:
 
